@@ -2,8 +2,8 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=algolia"
-  media="(prefers-color-scheme: algolia)"
+  srcset="https://github-readme-stats.vercel.app/api?username=JotaTMBR&show_icons=true&theme=algolia"
+  media="(prefers-color-scheme: da)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
