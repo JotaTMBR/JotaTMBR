@@ -25,7 +25,6 @@ Estudante do Senac Tatuapé - Técnico em Informática.
 <div align="center">
   <a href="https://www.linkedin.com/in/joão-vitor-463465236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joaov.alvessena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/jotatmbr_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 <br>
 <p align="center"> Visitas:</p>
